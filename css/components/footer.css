@@ -1,0 +1,21 @@
+.footer {
+  background: rgba(10, 10, 10, 0.9);
+  height: 20vh;
+  margin-top: 50px;
+  text-align: center;
+  padding-top: 30px;
+}
+.links {
+  text-align: center;
+  font-size: 40px;
+  color: white;
+}
+
+.links i {
+  color: white;
+}
+
+.footer p {
+  color: white;
+  opacity: 0.5;
+}
